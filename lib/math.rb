@@ -8,7 +8,7 @@ end
 
 
 def subtraction (num2, num1)
-  subtraction = #{num2} - #{num1}
+  subtraction = num2 - num1
   puts subtraction
   subtraction
 end
@@ -16,7 +16,7 @@ end
 
 
 def division (num2, num1)
-  division = #{num2} / #{num1}
+  division = num2 / num1
   puts division
   division
 end
@@ -24,7 +24,7 @@ end
 
 
 def multiplication (num1, num2)
-  multiplication = #{num1} * #{num2}
+  multiplication = num1 * num2
   puts multiplication
   multiplication
 end
@@ -32,7 +32,7 @@ end
 
 
 def modulo (num1, num2)
-  modulo = #{num2} % #{num1}
+  modulo = num2} % num1
   puts modulo
   modulo
 end
