@@ -1,10 +1,10 @@
-def addition (5, 4)
+def addition (num1, num2)
   addition = #{num1} + #{num2}
   puts addition
   addition
 end
 
-addition 
+
 
 
 def subtraction (num2, num1)
