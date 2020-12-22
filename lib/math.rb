@@ -46,4 +46,3 @@ def square_root (num)
   square_root
 end
 
-
