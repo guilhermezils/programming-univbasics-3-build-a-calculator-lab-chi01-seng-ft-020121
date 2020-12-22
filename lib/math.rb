@@ -4,6 +4,7 @@ def addition (num1, num2)
   addition
 end
 
+addition
 
 
 def subtraction (num2, num1)
